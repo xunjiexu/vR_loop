@@ -1,2 +1,2 @@
 # vR_loop
-code to compute....
+code to compute the loop-induced interactions.
